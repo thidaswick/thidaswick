@@ -17,7 +17,7 @@ I enjoy turning ideas into real-world software solutions 🚀
 ---
 
 ### 📫 How to reach me
-- Email: **thidaswickramasinghe@gmail.com**
+- Email: **thidaswickramasinghe8@gmail.com**
 - Portfolio: [https://thidaswick.vercel.app](https://thidaswick.vercel.app)
 - GitHub: [https://github.com/thidaswick](https://github.com/thidaswick)
 
@@ -25,13 +25,10 @@ I enjoy turning ideas into real-world software solutions 🚀
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/thidas-wickramasinghe" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.instagram.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-</p>
+
 
 ---
 
