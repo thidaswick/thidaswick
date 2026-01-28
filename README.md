@@ -34,7 +34,7 @@ I enjoy turning ideas into real-world software solutions 🚀
 
 ### 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,php,java,kotlin,androidstudio,firebase,mysql,git,github,docker,figma,linux,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,php,java,kotlin,androidstudio,firebase,mysql,git,github,docker,figma,linux,python,next.js" />
 </p>
 
 ---
